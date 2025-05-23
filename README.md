@@ -256,10 +256,6 @@ Enable detailed logging by setting the log level:
 logging.basicConfig(level=logging.DEBUG)
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ### Development Setup
 
 1. Fork the repository
@@ -271,19 +267,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Built with [aiohttp](https://docs.aiohttp.org/) for async HTTP requests
-- Uses [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing
-- Inspired by the need for efficient price comparison across book retailers
-
-## Disclaimer
-
-This scraper is for educational purposes only. Always respect website terms of service and robots.txt files. Consider reaching out to website owners before scraping their content at scale.
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/concurrent-book-scraper](https://github.com/yourusername/concurrent-book-scraper)
